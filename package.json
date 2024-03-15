@@ -1,0 +1,16 @@
+{
+  "name": "razorpay_clone",
+  "version": "1.0.0",
+  "description": "",
+  "main": "postcss.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "vite"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "feather-icons": "^4.29.1",
+    "swiper": "^11.0.7"
+  }
+}
